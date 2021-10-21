@@ -1,0 +1,2 @@
+int xy = 2 + 7;
+cout<<a;
